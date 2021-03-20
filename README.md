@@ -1,16 +1,22 @@
-### Hi there 👋
+[AED-92]
+=======
+**Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
-<!--
-**AED-985211/AED-985211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [中文版](./README_CN.md)
 
-Here are some ideas to get you started:
+The name `AED-92` refers to **"Anti-Educational Discrimination for non-985/211"**, aiming to reduce and eliminate the discriminations during recruitment. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Related press coverage:
+
+What is AED-92?
+---
+
+What can I do?
+---
+
+Principles and purposes
+---
+
+Contact
+---
+You can reach me by [E-mail](mailto:aied.985211@gmail.com).
